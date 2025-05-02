@@ -1,2 +1,2 @@
 # AI ML and Data Science Journey
-My journey learning and building projects in AI, Machine Learning and Data Science.
+My journey learning and building projects in AI, Machine Learning and Data Science...
