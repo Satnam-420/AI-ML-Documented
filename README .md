@@ -8,12 +8,12 @@
 ### - [Iris Dataset EDA](Projects/Iris_Data.ipynb): Explored the Iris dataset with Pandas and Matplotlib. [View on Kaggle](<https://www.kaggle.com/code/satnamsingh07/iris-data>)
 
 ## Learnings
-### - [Machine Learning Specialization (Coursera)](Learnings/Machine_Learning_Specialization_by_Andrew_Ng/Notes.ipynb): Notes from Andrew Ng’s ML Specialization.
-### - [Iris Project Learnings (Week 1)](Learnings/Iris_Learnings_Week_1.ipynb): Learnings from my Iris EDA project.
+### - [Machine Learning Specialization (Coursera)](Learnings/Machine Learning Specialization By Andrew Ng/Course_Notes.ipynb): Notes from Andrew Ng’s ML Specialization.
+### - [Iris Project Learnings (Week 1)](Learnings/Iris_Project_Week_1.ipynb): Learnings from my Iris EDA project.
 
 ## LeetCode Progress
 ### - I’ll start LeetCode after completing my Machine Learning Specialization (estimated mid-June 2025).
-#33 - Track my progress: [![LeetCode Progress](https://img.shields.io/badge/LeetCode-Progress%20Tracker-blue)](<paste-your-google-sheet-link-here>)
+#33 - Track my progress: [![LeetCode Progress](https://img.shields.io/badge/LeetCode-Progress%20Tracker-blue)](<https://docs.google.com/spreadsheets/d/1BJJPiLeZ7_Ub_qeNLetgouqrWd5eFy2jjVdtN72xwCc/edit?usp=sharing>)
 
 ## Weekly Reviews
 ### - [Reflections and Progress](Weekly_Reviews/)
