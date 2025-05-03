@@ -9,7 +9,7 @@ Hi, I'm Satnam Singh (@wiredInSatnam on X)! This repository documents my journey
 
 ## Learnings
 ### - [Machine Learning Specialization (Coursera)](Learnings/Machine_Learning_Specialization_by_Andrew_Ng/Course_Notes.ipynb): Notes from Andrew Ng’s ML Specialization.
-### - [Iris Project Learnings (Week 1)](Learnings/Iris_Project_Week 1.ipynb): Learnings from my Iris EDA project.
+### - [Iris Project Learnings (Week 1](Learnings/Iris_Project_Week_1.ipynb): Learnings from my Iris EDA project.
 
 ## LeetCode Progress
 ### - I’ll start LeetCode after completing my Machine Learning Specialization (estimated mid-June 2025).
