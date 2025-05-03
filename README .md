@@ -2,7 +2,7 @@
 
 ## My Journey in AI, Machine Learning, and Data Science
 
-Hi, I'm Satnam Singh ([![X Profile](https://img.shields.io/badge/X%20Profile-blue)](<x.com/WiredInSatnam>))! This repository documents my journey to become a top-tier AI/ML and Data Science engineer. I’m aiming for 15–20 projects, 7–8 Kaggle notebooks, and a ₹50 LPA+ or $50k+/year remote role in 12–15 months.
+Hi, I'm Satnam Singh ,  This repository documents my journey to become a top-tier AI/ML and Data Science engineer. I’m aiming for 15–20 projects, 7–8 Kaggle notebooks, and a ₹50 LPA+ or $50k+/year remote role in 12–15 months.
 
 ## Projects
 - [Iris Dataset EDA](Projects/Iris_Data.ipynb): Explored the Iris dataset with Pandas and Matplotlib. [View on Kaggle](<https://www.kaggle.com/code/satnamsingh07/iris-data>)
