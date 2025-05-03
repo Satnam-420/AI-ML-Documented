@@ -7,7 +7,7 @@ Hi, I'm Satnam Singh (@wiredInSatnam on X)! This repository documents my journey
 ### - Explored the Iris dataset using Pandas and Matplotlib.
 ### - Visualized species differences with scatter plots, histograms, and box plots.
 ### - Key Finding: Petal Length distinguishes species best.
-### - [View the notebook](https://github.com/SatnamCodes/AI-ML-Documented/blob/main/Notebooks/Iris_data.ipynb) | [See it on Kaggle](https://www.kaggle.com/code/satnamsingh07/iris-data))*
+### - [View the notebook](https://github.com/SatnamCodes/AI-ML-Documented/blob/main/Notebooks/Iris_data.ipynb) | [See it on Kaggle](https://www.kaggle.com/code/satnamsingh07/iris-data)
 
 ## Goals
 ### - 15–20 full-stack AI/ML projects
