@@ -5,7 +5,7 @@
 ### Hi, I'm Satnam Singh (@wiredInSatnam on X)! This repository documents my journey to become a top-tier AI/ML and Data Science engineer. I’m aiming for 15–20 projects, 7–8 Kaggle notebooks.
 
 ## Projects
-### - [Iris Dataset EDA](Projects/Iris_Data.ipynb): Explored the Iris dataset with Pandas and Matplotlib. [View on Kaggle](<your-kaggle-link>)
+### - [Iris Dataset EDA](Projects/Iris_Data.ipynb): Explored the Iris dataset with Pandas and Matplotlib. [View on Kaggle](<https://www.kaggle.com/code/satnamsingh07/iris-data>)
 
 ## Learnings
 ### - [Machine Learning Specialization (Coursera)](Learnings/Machine_Learning_Specialization_by_Andrew_Ng/Notes.ipynb): Notes from Andrew Ng’s ML Specialization.
